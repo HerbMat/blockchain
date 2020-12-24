@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.crypto.blockchain.domain.BlockchainServiceSpec" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-06-26T15:19:38" hostname="matik-System-Product-Name" time="0.723">
+  <properties/>
+  <testcase name="It should create new Transaction" classname="com.crypto.blockchain.domain.BlockchainServiceSpec" time="0.522"/>
+  <testcase name="It should create new Block" classname="com.crypto.blockchain.domain.BlockchainServiceSpec" time="0.071"/>
+  <testcase name="Chain validation should pass" classname="com.crypto.blockchain.domain.BlockchainServiceSpec" time="0.057"/>
+  <testcase name="Chain validation should fail by using bad hash" classname="com.crypto.blockchain.domain.BlockchainServiceSpec" time="0.007"/>
+  <testcase name="Chain validation should fail by using bad proof" classname="com.crypto.blockchain.domain.BlockchainServiceSpec" time="0.002"/>
+  <testcase name="Chain was replaced" classname="com.crypto.blockchain.domain.BlockchainServiceSpec" time="0.052"/>
+  <testcase name="Chain was not replaced because of bad hash" classname="com.crypto.blockchain.domain.BlockchainServiceSpec" time="0.007"/>
+  <testcase name="Chain was not replaced because of bad proof" classname="com.crypto.blockchain.domain.BlockchainServiceSpec" time="0.002"/>
+  <testcase name="Chain was not replaced by smaller one" classname="com.crypto.blockchain.domain.BlockchainServiceSpec" time="0.002"/>
+  <system-out><![CDATA[17:19:39.136 [Test worker] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
