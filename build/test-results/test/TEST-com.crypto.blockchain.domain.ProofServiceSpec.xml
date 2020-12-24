@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.crypto.blockchain.domain.ProofServiceSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-26T15:19:39" hostname="matik-System-Product-Name" time="0.838">
-  <properties/>
-  <testcase name="It should create proof" classname="com.crypto.blockchain.domain.ProofServiceSpec" time="0.836"/>
-  <testcase name="It should validate proof successfully[0]" classname="com.crypto.blockchain.domain.ProofServiceSpec" time="0.001"/>
-  <testcase name="It should validate proof successfully[1]" classname="com.crypto.blockchain.domain.ProofServiceSpec" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
